@@ -1,2 +1,1 @@
-# demo
-Hello everyone !
+# Super Market Billing System
